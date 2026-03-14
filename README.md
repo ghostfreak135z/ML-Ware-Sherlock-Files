@@ -80,9 +80,9 @@ Frames are resized to **224 × 224** before being fed to the model.
 
 | Parameter | Value |
 |-----------|------|
-| GPU | Tesla P100 |
+| GPU | RTX 4060 |
 | Batch Size | 2 |
-| Frames per Video | 16 |
+| Frames per Video | 64 |
 | Optimizer | Adam |
 | Learning Rate | 1e-4 |
 | Epochs | 3 |
@@ -111,7 +111,7 @@ Example loss progression:
 
 Clone the repository:
 
-git clone https://github.com/yourusername/video-frame-ordering.git
+git clone [https://github.com/ghostfreak135z/ML-Ware-Sherlock-Files.git]
 
 Install required dependencies:
 
