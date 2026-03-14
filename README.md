@@ -160,6 +160,3 @@ Potential improvements include:
 
 ---
 
-## Author
-
-Your Name
